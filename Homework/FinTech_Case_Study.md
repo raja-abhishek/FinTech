@@ -11,6 +11,8 @@ In 2003 two founders of Klarna Sebastian and Niklas decided to take a trip aroun
 ## Funding
 An angel investor, Jane Walerud was the first investor and since then Klarna has received $3.2 billion in funding from various investors including Sequoia group, BlackRock, Ant Capital, Soft Bank, Common Wealth Bank of Australia. In June 2021, Klarna raised $639 million in a fundraising round led by SoftBank Group's Vision Fund 2, taking the company's valuation to $45.6 billion.
 
+![alt text](http://url/to/img.png)
+
 |Date|Amount|Funding Type|
 |:---|:----:|-----------:|
 |Feb 2005|€60k|Seed|
