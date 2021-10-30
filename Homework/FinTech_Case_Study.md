@@ -1,6 +1,6 @@
 # FinTech Case Study: Klarna
 ## Overview and origin
-Klarna Bank AB, commonly known as Klarna, is a Swedish fintech company that provides online financial services such as payments for online storefronts and direct payments along with post-purchase payments.
+Klarna Bank AB, commonly known as Klarna, is a Swedish fintech company that provides online financial services such as point of sale financing, payments for online storefronts and direct payments along with post-purchase payments.
 
 Klarna was founded in 2005 by three friends from the Stockholm School of Economics; Sebastian Siemiatkowski, Niklas Adalberth and Victor Jacobsson.
 
@@ -38,33 +38,42 @@ An angel investor, Jane Walerud was the first investor and since then Klarna has
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+Klarna’s business model is to simplify payments for both merchants and consumers. Klarna offers a better shopping experience by removing obstacles in the checkout and requires only top of mind information, no lengthy registration process or credit card numbers are needed to complete the purchase. Consumers are offered to shop with three intuitive payment methods; Pay Now, Pay Later and Slice It, giving flexibility in payments with a variety of pay after delivery options and installment plans to the consumer who also gets safeguarded by Klarna’s buyers protection. Klarna assumes all the risk for both the consumer and merchant.
 
-Klarna's core service is to provide payment solutions for the e-commerce merchants and while doing so it is creating an unique proposition for both merchants and customers.
+Klarna's primary customer target is merchants. The company's target merchant is in the segment where the order value is comparatively low because its key offering is the split into 4. Fashion is Klarna's big target market. Klarna partners with large retailers with well-known brands exclusively to scale customer acquisition. Large players featuring in Klarna's collateral are Macy's, Lululemon, and Sephora. Klarna's competitive advantage depends on its simple and smooth payment process that needs minimal customer details, making more regular and consistent purchases possible.  
 
-- Retailers: 
-    - Klarna makes the upfront payment to merchants and takes the risk in the deal, compensating the merchant even though the consumer still has outstanding credit       on the purchase
-    - Flexible payment option given to customers helps business in increasing the order volume by 45%
-- Customers
-    - Creates a smooth shopping experience for the customers by asking minimal information for credit approval and providing felxible ineterst free payment options
-    
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-Klarna's primary customer target is merchants. The company's go-to-market strategy is first to acquire merchants through some direct mechanism. The company's target merchant is in the segment where the order value is comparatively low because its key offering is the split into 4 product. Fashion is Klarna's big target market. Klarna partners with large retailers with well-known brands exclusively to scale customer acquisition. Large players featuring in Klarna's collateral are Macy's, Lululemon, and Sephora. 
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
-
+The Engineering competence is pivotal in creating, maintaining and developing the Klarna experience. Klarna uses following technologies to maintain payment process simple and smooth:
+- Application & Data:
+    - Javascript
+    - Python
+    - PHP
+    - C/C#
+    - Erlang
+    - Ruby
+    - Perl
+    - AI/ML
+    - Big Data
+    - AWS
+- Utilities:
+    - Google Analytics
+    - Twilio SendGrid
+- Business Tools
+    - G suites
+    - Salesforce Sales Cloud
+  
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+Klarna competes in payment and point of sale financing domain. Point of sale financing is projected to continue its growth from 7 percent of US unsecured lending balances in 2019 to about 13 to 15 percent of balances by 2023, according to data from McKinsey’s Consumer Lending Pools. This is the only unsecured-lending asset class that has experienced high-double-digit growth through the COVID-19 crisis. The growth is underpinned by increased consumer and merchant awareness and adoption of point-of-sale financing solutions.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+Innovation is playing a major role in fueling the grwoth in this domain. These innovations are:
 
-* What are the other major companies in this domain?
-Major players in the payment service domain are:
+- Use of biometric and digital identity
+- Real time clearing and settlements
+- Touch less payment
+- Instatnt credit approval
+ 
+However expected grwoth is creating a tough competition and many players have entered in this domain. Some major players in this domain are:
+
   - Paypal
   - Stripe
   - Shopify Pay Installments
@@ -81,12 +90,11 @@ Major players in the payment service domain are:
   - Paypal Credit
   - Affirm
 
-
-
-
 ## Results
 
 * What has been the business impact of this company so far?
+
+Credit originated at point of sale is projected to continue its growth from 7 percent of US unsecured lending balances in 2019 to about 13 to 15 percent of balances by 2023, according to data from McKinsey’s Consumer Lending Pools (Exhibit 1). This is the only unsecured-lending asset class that has experienced high-double-digit growth through the COVID-19 crisis. The growth is underpinned by increased consumer and merchant awareness and adoption of point-of-sale financing solutions.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -125,9 +133,12 @@ Klarna's target is the segment where the order value is comparatively low (such 
 - https://en.wikipedia.org/wiki/Klarna#cite_note-8 (Wikipedia)
 - https://www.klarna.com/us/about-us/
 - https://engineering.klarna.com/
+- https://reports.klarna.com/investor-relations/2018/ESG-Report-2018-Final.pdf
 - https://app.dealroom.co/companies/klarna (Funding information)
 - https://www.datanyze.com/market-share/payment-processing--26 (Competitive landscape and performance comparison)
 - https://askwonder.com/research/bnpl-competitive-landscape-afterpay-affirm-klarna-1vja8km33 (Competitive landscape)
+- https://stackshare.io/klarna/klarna (Technology)
+- https://www.mckinsey.com/industries/financial-services/our-insights/buy-now-pay-later-five-business-models-to-compete
 - https://sifted.eu/articles/klarna-everything-to-know/
 - https://web.archive.org/web/20161220195148/http://nordic.businessinsider.com/the-founders-of-swedish-fintech-unicorn-klarna-say-it-all-started-when-they-missed-a-ship-across-the-pacific-2016-5
 - https://uk.finance.yahoo.com/news/klarna-pay-later-giant-europe-130112660.html?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAACZDAaCbMgrPXnnpBPgAb60dPxTNBil4h_Yjvf-iX0bAAHe10efZeCQ9-Sd76G_qyh8QfctWXMJTBXpxMrX-AiAwFIBTYAcqdEcFL4Rd-QdSLS78qx0nwbXIY3Z4_-cIexbUsTJfIJbovIyJe6PkBjDbjjjarmZgDzjZROUEfWvU
