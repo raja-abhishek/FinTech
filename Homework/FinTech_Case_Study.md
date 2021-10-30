@@ -65,18 +65,18 @@ The Engineering competence is pivotal in creating, maintaining and developing th
 
 Klarna competes in payment and point of sale financing domain. Point of sale financing is projected to continue its growth from 7 percent of US unsecured lending balances in 2019 to about 13 to 15 percent of balances by 2023, according to data from McKinsey’s Consumer Lending Pools. This is the only unsecured-lending asset class that has experienced high-double-digit growth through the COVID-19 crisis. The growth is underpinned by increased consumer and merchant awareness and adoption of point-of-sale financing solutions.
 
-Innovation is playing a major role in fueling the grwoth in this domain. These innovations are:
+Innovations are playing a major role in fueling the grwoth in this domain. Some recent innovations in this domain are:
 
 - Use of biometric and digital identity
 - Real time clearing and settlements
 - Touch less payment
 - Instatnt credit approval
  
-However expected grwoth is creating a tough competition and many players have entered in this domain. Some major players in this domain are:
+However expected grwoth is creating an envioronment of tough competition as many players have entered in this domain. Some major players in this domain are:
 
   - Paypal
   - Stripe
-  - Shopify Pay Installments
+  - Shopify
   - Amazon Pay
   - Braintree
   - Stripe Checkout
@@ -90,20 +90,47 @@ However expected grwoth is creating a tough competition and many players have en
   - Paypal Credit
   - Affirm
 
+
 ## Results
 
-* What has been the business impact of this company so far?
+Klarna is rapidly growing globally and its valuation after latest funding has reached $45.6b. As per the interim report January-June 2021 
 
-Credit originated at point of sale is projected to continue its growth from 7 percent of US unsecured lending balances in 2019 to about 13 to 15 percent of balances by 2023, according to data from McKinsey’s Consumer Lending Pools (Exhibit 1). This is the only unsecured-lending asset class that has experienced high-double-digit growth through the COVID-19 crisis. The growth is underpinned by increased consumer and merchant awareness and adoption of point-of-sale financing solutions.
+- its gross merchandise volume grew to $39b which is 53% grwoth YoY basis, 
+- Total net operating income reached $755m which is 40% grwoth YoY basis.  
+- Growth in all key markets globally, with strong performance in the US with Gross Merchandise Volume up 311% in the first half of 2021, driven by rising consumer   adoption, with 20 million Americans now using Klarna, up from 17 million in April 2021.
+    - The company's growth is further highlighted by accelerated momentum of the Klarna app, which now maintains 4 million monthly active US users as daily               downloads surpass the closest competitor by 20%, according to App Annie. In addition to swiftly reaching consumer milestones, Klarna continues to serve as a       growth engine for merchant partners, seeing its overall US retail partnerships surge to 10,000 as of July 2021, a 132% increase since June 2020, out of a           growing network of more than 250,000 retail partners globally. 
+    - Klarna is the partner of choice for 24 of the top 100 retailers in the US, with several renowned brands joining Klarna's US network in recent months               including Petco, Yoox Net-a-Porter, Charlotte Tilbury, Moncler, Bed Bath & Beyond, Dickies, Prabal Gurung, The Honest Company, Mr Porter, Olaplex, and             Authentic Brands Group. Klarna also continues to expand its existing relationships with retailers including Pandora, Ralph Lauren and Calvin Klein, and is         seeing tremendous growth of its physical retail footprint with Klarna payment options now available across more than 78,000 brick-and-mortar stores globally.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+## Performance against competitors
 
-* How is your company performing relative to competitors in the same domain?
+Performance of the companies in this space can be measured using various metrics such as
+- Number of apps download
+- Merchandise volume 
+- Average number of orders
+- etc. 
 
+However number of merchants using the technology provided by these companies is the main metrics against which they can be compared cleanly. Below table compares the performance of major players in this domain. 
+
+|Technology|# Comapnies using the service|Market share|
+|:---|:----:|-----------:|
+|Paypal|440,778|49.55%|
+|Stripe|142,456|16.01%|
+|Shopify|89,271|10.01%|
+|Amazon Pay|32,043|3.60%|
+|Braintree|17,913|2.01%|
+|Stripe Checkout|15,873|1.78%|
+|Afterpay|15,100|1.70%|
+|Authorize.net|11,555|1.30%|
+|Square Payments|10,100|1.14%|
+|Klarna|8,371|0.94%|
+|Vanco Payment Solutions|7,733|0.87%|
+|LawPay|5,967|0.67%|
+|Sezzle|4,905|0.55%|
+|PayPal Express Checkout|4,782|0.54%|
+|Paypal Credit|4,722|0.53%
+|Affirm|4,164|0.47%|
 
 ## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 Klarna's target is the segment where the order value is comparatively low (such as Fashion, Grocery etc.) which means they are operating in low margin segments. Currently a significant portion of Klarna revenue comes from a flat fee of $0.30 and a variable percentage fee between 3.29% to 5.99% charged to merchants. Any financial and non financial risk (such as increase in default, data breach etc.) will further reduce their margin. Klarna should look to 
 
@@ -112,7 +139,6 @@ Klarna's target is the segment where the order value is comparatively low (such 
   - Offer payment solution between merchant and supplier 
 - Improve risk management capability to manage the risk better. 
 
-* Why do you think that offering this product or service would benefit the company?
 - Enhanced product offering will 
   - improve their margin and ultimately the bottom line 
   - will help them expand further in different areas
@@ -121,11 +147,9 @@ Klarna's target is the segment where the order value is comparatively low (such 
   - will reduce default risk, hence improved margin
   - will help mitigating online security threat which will reduce possibility of lawsuits, fines and reputational damage
  
-* What technologies would this additional product or service utilize?
+Klarna has all the latest technology to roll out enhanced product offering and to manage risk. They can include blockchain in their existing technology suites which will help in enhancing the security of data related to customers, merchants and transcations
 
-* Why are these technologies appropriate for your solution?
-
-
+Also they have got the banking license in Germany and Regulatory technology will help them in fulfilling their regulatory obligations.
 
 
 
@@ -133,16 +157,16 @@ Klarna's target is the segment where the order value is comparatively low (such 
 - https://en.wikipedia.org/wiki/Klarna#cite_note-8 (Wikipedia)
 - https://www.klarna.com/us/about-us/
 - https://engineering.klarna.com/
+- https://www.klarna.com/assets/sites/15/2021/08/24184609/Klarna-Bank-AB-Interim-Report-2021-EN.pdf (Interim report 2021)
 - https://reports.klarna.com/investor-relations/2018/ESG-Report-2018-Final.pdf
 - https://app.dealroom.co/companies/klarna (Funding information)
 - https://www.datanyze.com/market-share/payment-processing--26 (Competitive landscape and performance comparison)
 - https://askwonder.com/research/bnpl-competitive-landscape-afterpay-affirm-klarna-1vja8km33 (Competitive landscape)
 - https://stackshare.io/klarna/klarna (Technology)
-- https://www.mckinsey.com/industries/financial-services/our-insights/buy-now-pay-later-five-business-models-to-compete
+- https://www.mckinsey.com/industries/financial-services/our-insights/buy-now-pay-later-five-business-models-to-compete (industry grwoth)
 - https://sifted.eu/articles/klarna-everything-to-know/
-- https://web.archive.org/web/20161220195148/http://nordic.businessinsider.com/the-founders-of-swedish-fintech-unicorn-klarna-say-it-all-started-when-they-missed-a-ship-across-the-pacific-2016-5
+- https://web.archive.org/web/20161220195148/http://nordic.businessinsider.com/the-founders-of-swedish-fintech-unicorn-klarna-say-it-all-started-when-they-missed-a-ship-across-the-pacific-2016-5 (How Klarna was founded)
 - https://uk.finance.yahoo.com/news/klarna-pay-later-giant-europe-130112660.html?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAACZDAaCbMgrPXnnpBPgAb60dPxTNBil4h_Yjvf-iX0bAAHe10efZeCQ9-Sd76G_qyh8QfctWXMJTBXpxMrX-AiAwFIBTYAcqdEcFL4Rd-QdSLS78qx0nwbXIY3Z4_-cIexbUsTJfIJbovIyJe6PkBjDbjjjarmZgDzjZROUEfWvU
-- https://builtin.com/fintech/fintech-payments-companies-examples
-- https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/
-- 
+- https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/ (Klarna's history)
+- https://www.prnewswire.com/news-releases/klarna-hits-record-20-million-us-customers-as-demand-for-flexible-payment-options-soars-301360598.html (News related to inetrim report 2021)
 
