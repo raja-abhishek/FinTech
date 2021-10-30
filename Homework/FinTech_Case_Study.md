@@ -1,6 +1,6 @@
 # FinTech Case Study: Klarna
 ## Overview and origin
-Klarna Bank AB, commonly known as Klarna, is a ‘Buy Now, Pay Later’ (BNPL) service that allows online shoppers to pay for products later in the month or in instalments at no extra cost. 
+Klarna Bank AB, commonly known as Klarna, is a Swedish fintech company that provides online financial services such as payments for online storefronts and direct payments along with post-purchase payments.
 
 Klarna was founded in 2005 by three friends from the Stockholm School of Economics; Sebastian Siemiatkowski, Niklas Adalberth and Victor Jacobsson.
 
@@ -124,10 +124,14 @@ Klarna's target is the segment where the order value is comparatively low (such 
 ## Resources
 - https://en.wikipedia.org/wiki/Klarna#cite_note-8 (Wikipedia)
 - https://www.klarna.com/us/about-us/
+- https://engineering.klarna.com/
 - https://app.dealroom.co/companies/klarna (Funding information)
 - https://www.datanyze.com/market-share/payment-processing--26 (Competitive landscape and performance comparison)
 - https://askwonder.com/research/bnpl-competitive-landscape-afterpay-affirm-klarna-1vja8km33 (Competitive landscape)
 - https://sifted.eu/articles/klarna-everything-to-know/
 - https://web.archive.org/web/20161220195148/http://nordic.businessinsider.com/the-founders-of-swedish-fintech-unicorn-klarna-say-it-all-started-when-they-missed-a-ship-across-the-pacific-2016-5
 - https://uk.finance.yahoo.com/news/klarna-pay-later-giant-europe-130112660.html?guccounter=1&guce_referrer=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnLw&guce_referrer_sig=AQAAACZDAaCbMgrPXnnpBPgAb60dPxTNBil4h_Yjvf-iX0bAAHe10efZeCQ9-Sd76G_qyh8QfctWXMJTBXpxMrX-AiAwFIBTYAcqdEcFL4Rd-QdSLS78qx0nwbXIY3Z4_-cIexbUsTJfIJbovIyJe6PkBjDbjjjarmZgDzjZROUEfWvU
+- https://builtin.com/fintech/fintech-payments-companies-examples
+- https://productmint.com/the-klarna-business-model-how-does-klarna-make-money/
+- 
 
