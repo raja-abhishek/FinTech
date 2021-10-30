@@ -104,10 +104,11 @@ Klarna is rapidly growing globally and its valuation after latest funding has re
 ## Performance against competitors
 
 Performance of the companies in this space can be measured using various metrics such as
+
 - Number of apps download
 - Merchandise volume 
 - Average number of orders
-- etc. 
+- Number of active users
 
 However number of merchants using the technology provided by these companies is the main metrics against which they can be compared cleanly. Below table compares the performance of major players in this domain. 
 
@@ -147,11 +148,7 @@ Klarna's target is the segment where the order value is comparatively low (such 
   - will reduce default risk, hence improved margin
   - will help mitigating online security threat which will reduce possibility of lawsuits, fines and reputational damage
  
-Klarna has all the latest technology to roll out enhanced product offering and to manage risk. They can include blockchain in their existing technology suites which will help in enhancing the security of data related to customers, merchants and transcations
-
-Also they have got the banking license in Germany and Regulatory technology will help them in fulfilling their regulatory obligations.
-
-
+Klarna has required technology to roll out enhanced product offering and to manage risk. They can include blockchain in their existing technology suites which will help in enhancing the security of data related to customers, merchants and transcations.
 
 ## Resources
 - https://en.wikipedia.org/wiki/Klarna#cite_note-8 (Wikipedia)
